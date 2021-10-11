@@ -1,10 +1,1 @@
-BRAINSTORMING:
-
-IDEAS:
-
-TOPOLOGY:
-    Proof that a mobius strip cannot be glued to a loop without intersecting itself (inscribed rectangle)
-WALSH/HADAMARD STUFF:
-    idk yet but would be cool, maybe look at relations to the sierpinski triangle
-???:
-    ????
+do it on polytopes lol
