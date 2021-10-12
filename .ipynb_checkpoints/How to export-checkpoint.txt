@@ -1,0 +1,5 @@
+jupyter nbconvert a.ipynb --to pdf --TemplateExporter.exclude_input=True
+
+//needs tex, lol
+
+converts a.ipynb to a pdf
